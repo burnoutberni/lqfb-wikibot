@@ -3,7 +3,8 @@
 include 'curl/curl.php';
 include 'Wikimate/Wikimate.php';
 
-$api_url = 'https://wiki.piratenpartei.at/w/api.php';
+//Please input the userdata of the bot
+$api_url = 'https://wiki.example.com/w/api.php';
 $differenz = '-1 hour';
-$username = 'bbot';
-$password = 'NlUvyhtHZaQUVd8z9nCn';
+$username = 'exampleuser';
+$password = 'examplepassword';
