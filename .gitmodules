@@ -1,3 +1,6 @@
 [submodule "Wikimate"]
 	path = Wikimate
 	url = https://github.com/hamstar/Wikimate.git
+[submodule "curl"]
+	path = curl
+	url = https://github.com/shuber/curl.git
